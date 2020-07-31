@@ -16,8 +16,6 @@ wasn't able to get pictures from. Once the pictures are there it should be good 
 
 **These buttons cannot be edited directly from the UI view in CASCADE**
 
-</br>
-
 From the normal editing window there is a small html button on the toolbar to access
 the child code. To edit these buttons scroll to the bottom of the html popup window.
 
